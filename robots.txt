@@ -1,0 +1,1 @@
+Sitemap: https://drpawelo.github.io/workshop_quarto_website_8/sitemap.xml
